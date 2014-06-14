@@ -25,7 +25,7 @@
 
 # R History files
 .Rhistory
-
+.Rproj.user
 
 # Texniccenter generated files
 **/*.tcp
@@ -56,4 +56,4 @@
 **/*.out
 **/*.synctex.gz
 **/*.synctex
-.Rproj.user
+
